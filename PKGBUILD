@@ -2,7 +2,7 @@
 #
 # Maintainer: Truocolo <truocolo@aol.com>
 # Maintainer: Pellegrino Prevete (tallero) <pellegrinoprevete@gmail.com>
-# Feccia: Fabio 'Lolix' Loli <fabio.loli@disroot.org>
+# He changed a number once: a certain Fabio Loli I don't even know who he is
 
 pkgname=kronos
 _Pkg="Kronos"
